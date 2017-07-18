@@ -1,0 +1,11 @@
+.center{
+float:center;
+text-align:center;
+Background-color:gray;
+}
+
+.right{
+float:right;
+text-align:right;
+border:1px solid black;
+}
